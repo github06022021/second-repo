@@ -1,2 +1,5 @@
+init()
 load()
+precheck()	
 start()
+postCheck()	
